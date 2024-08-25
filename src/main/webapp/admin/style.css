@@ -1,0 +1,6 @@
+.navbar .nav-item:hover .nav-link{
+	background-color:white;
+	color:rgb(90,192,186);
+	border-radius:15px;
+	
+}
